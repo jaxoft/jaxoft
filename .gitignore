@@ -1,0 +1,22 @@
+# Gevoelige gegevens
+.env
+.env.*
+*.key
+*.pem
+secrets.yaml
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Tijdelijke bestanden
+*.log
+*.tmp
+*.bak
+
+# IDE
+.vs/
+.idea/
