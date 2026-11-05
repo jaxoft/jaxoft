@@ -20,3 +20,5 @@ venv/
 # IDE
 .vs/
 .idea/
+
+/foldercompare.ps1
